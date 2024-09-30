@@ -1,2 +1,2 @@
-# Netflix-Project-Clone
+# Netflix-Clone-Project
 Frontend Netflix Clone 
